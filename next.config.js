@@ -105,6 +105,10 @@ const nextConfig = {
       'images.unsplash.com',
       'source.unsplash.com',
       'p1.qhimg.com',
+      'www.yuque.com'
+      'mp.weixin.com'
+      'www.zhihu.com'
+    //''
       'webmention.io',
       'ko-fi.com'
     ]
