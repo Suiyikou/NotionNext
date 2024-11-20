@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
-  "version": "4.7.10",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "name": "",
+  "version": "",
+  "homepage": "https://kee.so/suiyikou",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://kee.so/suiyikou"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "suiyikou",
+    "email": "suiyikou@gmail.com",
+    "url": "https://kee.so/suiyikou"
   },
   "scripts": {
     "dev": "next dev",
